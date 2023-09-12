@@ -1,0 +1,4 @@
+git clone https://github.com/justinnnb/Quiz_week_8.git
+git add .
+git commit -m "updated climate_q1.py file"
+git push origin main
